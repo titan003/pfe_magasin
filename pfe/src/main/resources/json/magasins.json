@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Zara",
+    "username": "Zara",
+    "email": "info-fr@zara.com",
+    "address": {
+      "street": "Bd des Capucines 18",
+      "suite": "",
+      "city": "paris",
+      "zipcode": "75009",
+      "geo": {
+        "lat": "48.862725",
+        "lng": "2.287592"
+      }
+    },
+    "phone": "0142683110",
+    "website": "https://www.zara.com",
+    "company": {
+      "name": "Zara",
+      "catchPhrase": "Zara",
+      "bs": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Zara",
+    "username": "Zara",
+    "email": "info-fr@zara.com",
+    "address": {
+      "street": "Rue de Rivoli",
+      "suite": "88",
+      "city": "paris",
+      "zipcode": "75004",
+      "geo": {
+        "lat": "48.8574813",
+        "lng": "2.3514873"
+      }
+    },
+    "phone": "0144542042",
+    "website": "https://www.zara.com",
+    "company": {
+      "name": "Zara",
+      "catchPhrase": "Zara",
+      "bs": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "GO SPORT LES HALLES",
+    "username": "go sport",
+    "email": "service.client@go-sport.fr",
+    "address": {
+      "street": "101 Rue Pierre Lescot",
+      "suite": "3",
+      "city": "paris",
+      "zipcode": "75001",
+      "geo": {
+        "lat": "48.8623777",
+        "lng": "2.3484175"
+      }
+    },
+    "phone": "0140137350",
+    "website": "https://stores.go-sport.com",
+    "company": {
+      "name": "GO SPORT",
+      "catchPhrase": "GO SPORT",
+      "bs": ""
+    }
+  },
+  {
+    "id": 4,
+    "name": "GO SPORT PARIS RÉPUBLIQUE",
+    "username": "go sport",
+    "email": "service.client@go-sport.fr",
+    "address": {
+      "street": "10 Place de la République",
+      "suite": "",
+      "city": "paris",
+      "zipcode": "75011",
+      "geo": {
+        "lat": "48.8676612",
+        "lng": "2.3648717"
+      }
+    },
+    "phone": "0143143282",
+    "website": "https://stores.go-sport.com",
+    "company": {
+      "name": "GO SPORT",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "H&M",
+    "username": "H&M",
+    "email": "info@hm.com",
+    "address": {
+      "street": "Rue La Fayette",
+      "suite": "9",
+      "city": "paris",
+      "zipcode":"75009",
+      "geo": {
+        "lat": "48.8741786",
+        "lng": "2.3374948"
+      }
+    },
+    "phone": "0805088888",
+    "website": "https://www2.hm.com",
+    "company": {
+      "name": "H&M",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 6,
+    "name": "H&M Halles",
+    "username": "H&M",
+    "email": "info@hm.com",
+    "address": {
+      "street": "Rue Berger",
+      "suite": "101",
+      "city": "paris",
+      "zipcode": "75001",
+      "geo": {
+        "lat": "48.8619644",
+        "lng": "2.3435399"
+      }
+    },
+    "phone": "0805088888",
+    "website": "https://www2.hm.com",
+    "company": {
+      "name": "H&M",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 7,
+    "name": "Foot Locker",
+    "username": "Foot Locker",
+    "email": "footlocker.eu@gmail.com",
+    "address": {
+      "street": "Rue de Rivoli",
+      "suite": "'(",
+      "city": "paris",
+      "zipcode": "75001",
+      "geo": {
+        "lat": "48.8595305",
+        "lng": "2.3451817"
+      }
+    },
+    "phone": "0140390971",
+    "website": "https://stores.footlocker.fr",
+    "company": {
+      "name": "Foot Locker",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 8,
+    "name": "Foot Locker",
+    "username": "Foot Locker",
+    "email": "footlocker.eu@gmail.com",
+    "address": {
+      "street": "Rue Pierre Lescot",
+      "suite": "4-6",
+      "city": "paris",
+      "zipcode": "75001",
+      "geo": {
+        "lat": "48.8623777",
+        "lng": "2.3484175"
+      }
+    },
+    "phone": "0158650372",
+    "website": "https://stores.footlocker.fr",
+    "company": {
+      "name": "Foot Locker",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 9,
+    "name": "Adidas",
+    "username": "Adidas",
+    "email": "info-adidas@gmail.com",
+    "address": {
+      "street": "Boulevard Haussmann",
+      "suite": "39-41",
+      "city": "paris",
+      "zipcode": "75009",
+      "geo": {
+        "lat": "48.8725965",
+        "lng": "2.3358001"
+      }
+    },
+    "phone": "0173431806",
+    "website": "https://www.adidas.fr",
+    "company": {
+      "name": "Adidas",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  },
+  {
+    "id": 10,
+    "name": "Nike",
+    "username": "Nike",
+    "email": "Rey.Padberg@karina.biz",
+    "address": {
+      "street": "79 Avenue des Champs-Élysées",
+      "suite": "79",
+      "city": "paris",
+      "zipcode": "75008",
+      "geo": {
+        "lat": "48.8710263",
+        "lng": "2.302439"
+      }
+    },
+    "phone": "0134301300",
+    "website": "https://www.nike.com",
+    "company": {
+      "name": "Nike",
+      "catchPhrase": "",
+      "bs": ""
+    }
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Tshirt",
+    "couleurs": "Rouge,Bleur,Gri",
+    "tailles": "S,M,L,XL,XXL",
+    "prix": "30 euros",
+    "magasin": {
+    	"id":1
+    }
+
+  },
+  {
+    "id": 2,
+    "name": "Tshirt",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "M,L,XL",
+    "prix": "25 euros",
+    "magasin": {
+    	"id":2
+    }
+
+  },
+  {
+    "id": 3,
+    "name": "une Robe",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "S,M,L",
+    "prix": "100 euros",
+    "magasin": {
+    	"id":3
+    }
+
+  },
+  {
+    "id": 4,
+    "name": "un Short",
+    "couleurs": "Blue",
+    "tailles": "M,L",
+    "prix": "35 euros",
+    "magasin": {
+    	"id":1
+    }
+  },
+  {
+    "id": 5,
+    "name": "une pyjama",
+    "couleurs": "Rouge,Bleur,Gri",
+    "tailles": "M,L,XL",
+    "prix": "45 euros",
+    "magasin": {
+    	"id":2
+    }
+
+  },
+  {
+    "id": 6,
+    "name": "un Tricot",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "M,L,XL",
+    "prix": "10 euros",
+    "magasin": {
+    	"id":3
+    }
+  },
+  {
+    "id": 7,
+    "name": "une chemise",
+    "couleurs": "Rouge,Bleur,Gri",
+    "tailles": "S,M,L,XL,XXL",
+    "prix": "20 euros",
+    "magasin": {
+    	"id":1
+    }
+
+  },
+  {
+    "id": 8,
+    "name": "Tshirt",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "M,L,XL",
+    "prix": "26 euros",
+    "magasin": {
+    	"id":2
+    }
+  },
+  {
+    "id": 9,
+    "name": "une chemise",
+    "couleurs": "Rouge,Bleur,Gri",
+    "tailles": "S,M,L,XL,XXL",
+    "prix": "49 euros",
+    "magasin": {
+    	"id":3
+    }
+
+  },
+  {
+    "id": 10,
+    "name": "Tshirt",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "M,L,XL",
+    "prix": "16 euros",
+    "magasin": {
+    	"id":1
+    }
+  },
+  {
+    "id": 11,
+    "name": "Tshirt",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "M,L,XL",
+    "prix": "18 euros",
+    "magasin": {
+    	"id":2
+    }
+  },
+  {
+    "id": 12,
+    "name": "une Robe",
+    "couleurs": "Rouge,Bleu",
+    "tailles": "S,M,L",
+    "prix": "99 euros",
+    "magasin": {
+    	"id":3
+    }
+
+  },
+  {
+    "id": 13,
+    "name": "un Short",
+    "couleurs": "Blue",
+    "tailles": "M,L,XL",
+    "prix": "8 euros",
+    "magasin": {
+    	"id":2
+    }
+  }
+
+]
