@@ -2,7 +2,6 @@ package org.alioune.pfe.domain;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonProperty;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -25,8 +24,7 @@ public class Article {
     private String prix;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "id_magasin")
-    @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
+    @JoinColumn(name = "id_magasin", referencedColumnName= "id")
     private Magasin magasin;
 
     public Article() {}

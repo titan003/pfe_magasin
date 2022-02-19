@@ -16,6 +16,7 @@ public class Magasin {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Access(AccessType.PROPERTY)
     private Long id;
     private String name;
     private String username;
